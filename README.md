@@ -6,5 +6,7 @@ particular reservation. The system provides options for viewing and booking diff
 flights available with different timings for a particular date with the option to look for flights
 via direct one-stop flight.
 
+I used php as Backend and sql server for DBMS
+
 MADE BY-
 Mohamed Wael
